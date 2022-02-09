@@ -1,4 +1,4 @@
 # COVID_VaccineClinics
 Network analysis of COVID vaccine clinic accessibility. 
 
-HIIIIIIII :)
+This is Lucy typy typing away. What will happen?
