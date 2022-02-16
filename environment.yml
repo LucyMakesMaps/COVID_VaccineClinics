@@ -1,0 +1,15 @@
+name: final_ML_LR
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8    # Python version 3.8
+    - geopandas     # Geospatial extension of pandas
+    - matplotlib    # 2D plotting library
+    - shapely       # Vector formats
+    - jupyter       # Interactive notebooks
+    - osmnx         # Retrieve street networks from OpenStreetMap
+    - networkx      # Network analysis
+    - shapely       # Vector formats
+    - cenpy         # Access Census data
+    - numpy         # N-d array and numerics
