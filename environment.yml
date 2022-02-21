@@ -13,3 +13,4 @@ dependencies:
     - shapely       # Vector formats
     - cenpy         # Access Census data
     - numpy         # N-d array and numerics
+    - descartes     #for isochrone maps
